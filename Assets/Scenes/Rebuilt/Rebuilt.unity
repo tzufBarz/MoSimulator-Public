@@ -3062,6 +3062,17 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: a415fa222c22aa746b278b1943a4a7db,
         type: 2}
+    - target: {fileID: 1564711394052891153, guid: 288076962666d3745a484c7a5088b4c6,
+        type: 3}
+      propertyPath: LoadedRobots.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1564711394052891153, guid: 288076962666d3745a484c7a5088b4c6,
+        type: 3}
+      propertyPath: 'LoadedRobots.Array.data[0]'
+      value: 
+      objectReference: {fileID: 11400000, guid: 20f53d5804c4377db9f74eb4450c0aca,
+        type: 2}
     - target: {fileID: 6686171717398937248, guid: 288076962666d3745a484c7a5088b4c6,
         type: 3}
       propertyPath: m_Name

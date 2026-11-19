@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be1409438a6844eea96767966da7413b, type: 3}
+  m_Name: DBug
+  m_EditorClassIdentifier: 
+  teamNumber: 3316
+  teamName: D-Bug
+  robotImage: {fileID: 0}
+  mainRobot:
+    displayName: D-Bug
+    robotPrefab: {fileID: 4207338157378199776, guid: e789e7cd185823a8fb22dc93132fe8f1,
+      type: 3}
+    mainMenuPrefab: {fileID: 5432348206126708421, guid: f3d5ea8ec23ad19c3ad6f1ef57713286,
+      type: 3}
+    spawnSelectionPrefab: {fileID: 4089981044040448776, guid: 8da6fce5abfe19e97b2dbdf706db48d1,
+      type: 3}
+    preloadGamePiece: {fileID: 0}
+    tutorialCards:
+    - {fileID: 4898981217434135223, guid: 3a9017042bdb63b97810ad368f413b63, type: 3}
+    - {fileID: 1478521544110588798, guid: 330f753961ed487b9bbe15b4084ff1dc, type: 3}
+    - {fileID: 4693107045695954359, guid: aa077edd1a8d64afc967dca253f2f8ce, type: 3}
+  alternateRobots: []
